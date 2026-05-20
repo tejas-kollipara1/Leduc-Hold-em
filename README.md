@@ -11,8 +11,7 @@ Welcome to the **Group 14** Reinforcement Learning Project! This repository impl
 ## 📑 Project Reports
 
 For a deep dive into the methodology, mathematical formulations, and detailed evaluation, please refer to our official project reports:
-- 📄 [**Project Report 1**](./Group14_RL_projectReport.pdf)
-- 📄 [**Project Report 2 (Final)**](./Group14_RL_projectReport_2.pdf)
+- 📄 [**Project Report**](./Group14_RL_projectReport_2.pdf)
 
 *(Click the links above to view the PDF reports directly in the repository)*
 
