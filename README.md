@@ -6,7 +6,6 @@
 [![Status](https://img.shields.io/badge/Status-Completed-00C853?style=for-the-badge)](#)
 
 Welcome to the **Group 14** Reinforcement Learning Project! This repository implements and evaluates an **Opponent-Aware Q-Learning Agent** for **Leduc Hold'em** (a simplified version of Texas Hold'em poker) using the `RLCard` framework.
-
 ---
 
 ## 📑 Project Reports
